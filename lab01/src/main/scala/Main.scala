@@ -11,5 +11,13 @@ object Main extends App {
   println(s"liczba $liczba jest pierwsza")
   else
   println(s"liczba $liczba nie jest pierwsza")
-  var n = io.StdIn.readInt()
+  //var n = io.StdIn.readInt()
+  //x = 1
+  //var y = 0
+  //z = 4
+  //var a = 2
+  //var b = 1
+  //while(z <= n){
+  //  while(x)
+  //}
 }
